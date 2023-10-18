@@ -1,0 +1,28 @@
+@charset "UTF-8";
+table {
+    border-collapse: collapse;
+    width: 66.67%; 
+    margin: 0 auto;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+/* 样式类用于居中图像 */
+.centered {
+    text-align: center;
+}
+.username-header {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+;
